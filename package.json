@@ -1,0 +1,19 @@
+{
+  "name": "youtube-data-api",
+  "version": "1.0.0",
+  "description": "NodeJS module for YouTube Data API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukko/YouTube-Data-API.git"
+  },
+  "author": "kukko <nyariag@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kukko/YouTube-Data-API/issues"
+  },
+  "homepage": "https://github.com/kukko/YouTube-Data-API#readme"
+}
