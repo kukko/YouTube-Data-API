@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kukko/YouTube-Data-API/issues"
   },
-  "homepage": "https://github.com/kukko/YouTube-Data-API#readme"
+  "homepage": "https://github.com/kukko/YouTube-Data-API#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
