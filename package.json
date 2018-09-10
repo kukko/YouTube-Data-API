@@ -1,6 +1,6 @@
 {
   "name": "youtube-data-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS module for YouTube Data API.",
   "main": "index.js",
   "scripts": {
